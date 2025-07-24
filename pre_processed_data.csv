@@ -1,0 +1,264 @@
+Industry Name,Substance,Supply Chain Emission Factors with Margins
+Farms,methane,0.023
+Farms,nitrous oxide,0.002
+Farms,other GHGs,0.004
+"Forestry, fishing, and related activities",carbon dioxide,0.201
+"Forestry, fishing, and related activities",methane,0.001
+"Forestry, fishing, and related activities",nitrous oxide,0.0
+"Forestry, fishing, and related activities",other GHGs,0.002
+Oil and gas extraction,carbon dioxide,0.528
+Oil and gas extraction,methane,0.025
+Oil and gas extraction,nitrous oxide,0.0
+Oil and gas extraction,other GHGs,0.004
+"Mining, except oil and gas",carbon dioxide,0.786
+"Mining, except oil and gas",methane,0.026
+"Mining, except oil and gas",nitrous oxide,0.0
+"Mining, except oil and gas",other GHGs,0.005
+Support activities for mining,carbon dioxide,0.243
+Support activities for mining,methane,0.001
+Support activities for mining,nitrous oxide,0.0
+Support activities for mining,other GHGs,0.005
+Utilities,carbon dioxide,3.425
+Utilities,methane,0.006
+Utilities,nitrous oxide,0.0
+Utilities,other GHGs,0.011
+Construction,carbon dioxide,0.269
+Construction,methane,0.001
+Construction,nitrous oxide,0.0
+Construction,other GHGs,0.021
+Food and beverage and tobacco products,carbon dioxide,0.338
+Food and beverage and tobacco products,methane,0.008
+Food and beverage and tobacco products,nitrous oxide,0.001
+Food and beverage and tobacco products,other GHGs,0.007
+Textile mills and textile product mills,carbon dioxide,0.311
+Textile mills and textile product mills,methane,0.002
+Textile mills and textile product mills,nitrous oxide,0.0
+Textile mills and textile product mills,other GHGs,0.006
+Apparel and leather and allied products,carbon dioxide,0.105
+Apparel and leather and allied products,methane,0.001
+Apparel and leather and allied products,nitrous oxide,0.0
+Apparel and leather and allied products,other GHGs,0.002
+Wood products,carbon dioxide,0.221
+Wood products,methane,0.001
+Wood products,nitrous oxide,0.0
+Wood products,other GHGs,0.01
+Paper products,carbon dioxide,0.437
+Paper products,methane,0.001
+Paper products,nitrous oxide,0.0
+Paper products,other GHGs,0.005
+Printing and related support activities,carbon dioxide,0.251
+Printing and related support activities,methane,0.001
+Printing and related support activities,nitrous oxide,0.0
+Printing and related support activities,other GHGs,0.004
+Petroleum and coal products,carbon dioxide,0.68
+Petroleum and coal products,methane,0.016
+Petroleum and coal products,nitrous oxide,0.0
+Petroleum and coal products,other GHGs,0.004
+Chemical products,carbon dioxide,0.442
+Chemical products,methane,0.002
+Chemical products,nitrous oxide,0.0
+Chemical products,other GHGs,0.012
+Plastics and rubber products,carbon dioxide,0.275
+Plastics and rubber products,methane,0.001
+Plastics and rubber products,nitrous oxide,0.0
+Plastics and rubber products,other GHGs,0.011
+Nonmetallic mineral products,carbon dioxide,0.829
+Nonmetallic mineral products,methane,0.002
+Nonmetallic mineral products,nitrous oxide,0.0
+Nonmetallic mineral products,other GHGs,0.004
+Primary metals,carbon dioxide,0.251
+Primary metals,methane,0.001
+Primary metals,nitrous oxide,0.0
+Primary metals,other GHGs,0.024
+Fabricated metal products,carbon dioxide,0.288
+Fabricated metal products,methane,0.001
+Fabricated metal products,nitrous oxide,0.0
+Fabricated metal products,other GHGs,0.008
+Machinery,carbon dioxide,0.209
+Machinery,methane,0.001
+Machinery,nitrous oxide,0.0
+Machinery,other GHGs,0.039
+Computer and electronic products,carbon dioxide,0.061
+Computer and electronic products,methane,0.0
+Computer and electronic products,nitrous oxide,0.0
+Computer and electronic products,other GHGs,0.016
+"Electrical equipment, appliances, and components",carbon dioxide,0.203
+"Electrical equipment, appliances, and components",methane,0.001
+"Electrical equipment, appliances, and components",nitrous oxide,0.0
+"Electrical equipment, appliances, and components",other GHGs,0.01
+"Motor vehicles, bodies and trailers, and parts",carbon dioxide,0.21
+"Motor vehicles, bodies and trailers, and parts",methane,0.001
+"Motor vehicles, bodies and trailers, and parts",nitrous oxide,0.0
+"Motor vehicles, bodies and trailers, and parts",other GHGs,0.019
+Other transportation equipment,carbon dioxide,0.114
+Other transportation equipment,methane,0.0
+Other transportation equipment,nitrous oxide,0.0
+Other transportation equipment,other GHGs,0.005
+Furniture and related products,carbon dioxide,0.235
+Furniture and related products,methane,0.001
+Furniture and related products,nitrous oxide,0.0
+Furniture and related products,other GHGs,0.02
+Miscellaneous manufacturing,carbon dioxide,0.195
+Miscellaneous manufacturing,methane,0.001
+Miscellaneous manufacturing,nitrous oxide,0.0
+Miscellaneous manufacturing,other GHGs,0.006
+Wholesale trade,carbon dioxide,0.112
+Wholesale trade,methane,0.0
+Wholesale trade,nitrous oxide,0.0
+Wholesale trade,other GHGs,0.003
+Motor vehicle and parts dealers,carbon dioxide,0.127
+Motor vehicle and parts dealers,methane,0.001
+Motor vehicle and parts dealers,nitrous oxide,0.0
+Motor vehicle and parts dealers,other GHGs,0.002
+Food and beverage stores,carbon dioxide,0.221
+Food and beverage stores,methane,0.001
+Food and beverage stores,nitrous oxide,0.0
+Food and beverage stores,other GHGs,0.004
+General merchandise stores,carbon dioxide,0.162
+General merchandise stores,methane,0.001
+General merchandise stores,nitrous oxide,0.0
+General merchandise stores,other GHGs,0.002
+Air transportation,carbon dioxide,0.86
+Air transportation,methane,0.002
+Air transportation,nitrous oxide,0.0
+Air transportation,other GHGs,0.002
+Rail transportation,carbon dioxide,0.641
+Rail transportation,methane,0.001
+Rail transportation,nitrous oxide,0.0
+Rail transportation,other GHGs,0.004
+Water transportation,carbon dioxide,0.453
+Water transportation,methane,0.002
+Water transportation,nitrous oxide,0.0
+Water transportation,other GHGs,0.053
+Truck transportation,carbon dioxide,1.315
+Truck transportation,methane,0.002
+Truck transportation,nitrous oxide,0.0
+Truck transportation,other GHGs,0.021
+Transit and ground passenger transportation,carbon dioxide,0.12
+Transit and ground passenger transportation,methane,0.001
+Transit and ground passenger transportation,nitrous oxide,0.0
+Transit and ground passenger transportation,other GHGs,0.007
+Pipeline transportation,carbon dioxide,0.986
+Pipeline transportation,methane,0.031
+Pipeline transportation,nitrous oxide,0.0
+Pipeline transportation,other GHGs,0.011
+Other transportation and support activities,carbon dioxide,0.316
+Other transportation and support activities,methane,0.002
+Other transportation and support activities,nitrous oxide,0.0
+Other transportation and support activities,other GHGs,0.004
+Warehousing and storage,carbon dioxide,0.474
+Warehousing and storage,methane,0.002
+Warehousing and storage,nitrous oxide,0.0
+Warehousing and storage,other GHGs,0.004
+Other retail,carbon dioxide,0.163
+Other retail,methane,0.001
+Other retail,nitrous oxide,0.0
+Other retail,other GHGs,0.003
+"Publishing industries, except internet (includes software)",carbon dioxide,0.06
+"Publishing industries, except internet (includes software)",methane,0.0
+"Publishing industries, except internet (includes software)",nitrous oxide,0.0
+"Publishing industries, except internet (includes software)",other GHGs,0.001
+Motion picture and sound recording industries,carbon dioxide,0.059
+Motion picture and sound recording industries,methane,0.0
+Motion picture and sound recording industries,nitrous oxide,0.0
+Motion picture and sound recording industries,other GHGs,0.001
+Broadcasting and telecommunications,carbon dioxide,0.083
+Broadcasting and telecommunications,methane,0.0
+Broadcasting and telecommunications,nitrous oxide,0.0
+Broadcasting and telecommunications,other GHGs,0.006
+"Data processing, internet publishing, and other information services",carbon dioxide,0.091
+"Data processing, internet publishing, and other information services",methane,0.0
+"Data processing, internet publishing, and other information services",nitrous oxide,0.0
+"Data processing, internet publishing, and other information services",other GHGs,0.004
+"Federal Reserve banks, credit intermediation, and related activities",carbon dioxide,0.067
+"Federal Reserve banks, credit intermediation, and related activities",methane,0.0
+"Federal Reserve banks, credit intermediation, and related activities",nitrous oxide,0.0
+"Federal Reserve banks, credit intermediation, and related activities",other GHGs,0.001
+"Securities, commodity contracts, and investments",carbon dioxide,0.118
+"Securities, commodity contracts, and investments",methane,0.001
+"Securities, commodity contracts, and investments",nitrous oxide,0.0
+"Securities, commodity contracts, and investments",other GHGs,0.002
+Insurance carriers and related activities,carbon dioxide,0.04
+Insurance carriers and related activities,methane,0.0
+Insurance carriers and related activities,nitrous oxide,0.0
+Insurance carriers and related activities,other GHGs,0.001
+"Funds, trusts, and other financial vehicles",carbon dioxide,0.201
+"Funds, trusts, and other financial vehicles",methane,0.001
+"Funds, trusts, and other financial vehicles",nitrous oxide,0.0
+"Funds, trusts, and other financial vehicles",other GHGs,0.002
+Rental and leasing services and lessors of intangible assets,carbon dioxide,0.107
+Rental and leasing services and lessors of intangible assets,methane,0.0
+Rental and leasing services and lessors of intangible assets,nitrous oxide,0.0
+Rental and leasing services and lessors of intangible assets,other GHGs,0.003
+Legal services,carbon dioxide,0.064
+Legal services,methane,0.0
+Legal services,nitrous oxide,0.0
+Legal services,other GHGs,0.001
+"Miscellaneous professional, scientific, and technical services",carbon dioxide,0.085
+"Miscellaneous professional, scientific, and technical services",methane,0.0
+"Miscellaneous professional, scientific, and technical services",nitrous oxide,0.0
+"Miscellaneous professional, scientific, and technical services",other GHGs,0.002
+Computer systems design and related services,carbon dioxide,0.043
+Computer systems design and related services,methane,0.0
+Computer systems design and related services,nitrous oxide,0.0
+Computer systems design and related services,other GHGs,0.004
+Management of companies and enterprises,carbon dioxide,0.114
+Management of companies and enterprises,methane,0.0
+Management of companies and enterprises,nitrous oxide,0.0
+Management of companies and enterprises,other GHGs,0.002
+Administrative and support services,carbon dioxide,0.089
+Administrative and support services,methane,0.001
+Administrative and support services,nitrous oxide,0.0
+Administrative and support services,other GHGs,0.004
+Waste management and remediation services,carbon dioxide,0.271
+Waste management and remediation services,methane,0.056
+Waste management and remediation services,nitrous oxide,0.0
+Waste management and remediation services,other GHGs,0.014
+Educational services,carbon dioxide,0.182
+Educational services,methane,0.001
+Educational services,nitrous oxide,0.0
+Educational services,other GHGs,0.003
+Ambulatory health care services,carbon dioxide,0.092
+Ambulatory health care services,methane,0.0
+Ambulatory health care services,nitrous oxide,0.0
+Ambulatory health care services,other GHGs,0.003
+Hospitals,carbon dioxide,0.138
+Hospitals,methane,0.001
+Hospitals,nitrous oxide,0.0
+Hospitals,other GHGs,0.003
+Nursing and residential care facilities,carbon dioxide,0.15
+Nursing and residential care facilities,methane,0.001
+Nursing and residential care facilities,nitrous oxide,0.0
+Nursing and residential care facilities,other GHGs,0.005
+Social assistance,carbon dioxide,0.145
+Social assistance,methane,0.001
+Social assistance,nitrous oxide,0.0
+Social assistance,other GHGs,0.004
+"Performing arts, spectator sports, museums, and related activities",carbon dioxide,0.077
+"Performing arts, spectator sports, museums, and related activities",methane,0.0
+"Performing arts, spectator sports, museums, and related activities",nitrous oxide,0.0
+"Performing arts, spectator sports, museums, and related activities",other GHGs,0.001
+"Amusements, gambling, and recreation industries",carbon dioxide,0.175
+"Amusements, gambling, and recreation industries",methane,0.001
+"Amusements, gambling, and recreation industries",nitrous oxide,0.0
+"Amusements, gambling, and recreation industries",other GHGs,0.003
+Accommodation,carbon dioxide,0.166
+Accommodation,methane,0.001
+Accommodation,nitrous oxide,0.0
+Accommodation,other GHGs,0.002
+Food services and drinking places,carbon dioxide,0.22
+Food services and drinking places,methane,0.001
+Food services and drinking places,nitrous oxide,0.0
+Food services and drinking places,other GHGs,0.006
+"Other services, except government",carbon dioxide,0.127
+"Other services, except government",methane,0.001
+"Other services, except government",nitrous oxide,0.0
+"Other services, except government",other GHGs,0.005
+Housing,carbon dioxide,0.017
+Housing,methane,0.0
+Housing,nitrous oxide,0.0
+Housing,other GHGs,0.001
+Other real estate,carbon dioxide,0.414
+Other real estate,methane,0.001
+Other real estate,nitrous oxide,0.0
+Other real estate,other GHGs,0.004
